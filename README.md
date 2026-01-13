@@ -4,8 +4,6 @@
 ## 📌 Project Description
 The **Show-Hide-Paragraph** project demonstrates how to show and hide a paragraph using a button click dynamically. It utilises basic HTML for structure, CSS for styling, and JavaScript for interactivity.
 
-This project is ideal for beginners who want to understand DOM manipulation and event handling in JavaScript.
-
 ---
 
 ## 🛠️ Technologies Used
@@ -25,8 +23,7 @@ This project is ideal for beginners who want to understand DOM manipulation and 
 ---
 
 ## 📂 Project Structure
-Show-Hide-Paragraph/
-│
+Show-Hide-Paragraph
 ├── index.html
 ├── style.css
 └── script.js
