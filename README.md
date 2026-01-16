@@ -22,14 +22,6 @@ The **Show-Hide-Paragraph** project demonstrates how to show and hide a paragrap
 
 ---
 
-## 📂 Project Structure
-Show-Hide-Paragraph
-├── index.html
-├── style.css
-└── script.js
-
----
-
 ## 🚀 How to Run the Project
 1. Download or clone the repository.
 2. Open the `index.html` file in any modern web browser.
